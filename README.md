@@ -1,4 +1,9 @@
 **The web page take some time to load and to make report so please give some time**
+
+TO load this page scroll and wait for 30 seconds 
+<img width="1608" height="609" alt="image" src="https://github.com/user-attachments/assets/320cd3cb-b017-42ad-8e6d-439fe58ae5f5" />
+
+
 **MAIN WEB PAGE**:-https://market-sentiment-analyzer-advanced.streamlit.app/
 
 **Team Name**:-Vamos
