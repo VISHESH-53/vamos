@@ -4,7 +4,7 @@
 
 **Team Lead**:-Chaitanaya Sameer
 
-# 📊 Market Sentiment Analyzer 2.0
+# 📊 Market Sentiment Analyzer
 
 **Quantitative trading research project** combining **market data**, **news sentiment**, **machine learning**, and **risk-managed backtesting** using **walk-forward validation**.
 
