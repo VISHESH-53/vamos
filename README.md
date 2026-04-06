@@ -1,6 +1,6 @@
-#MAIN WEB PAGE#:-https://market-sentiment-analyzer-advanced.streamlit.app/
-#Team Name#:-Vamos
-#Team Lead#:-Chaitanaya Sameer
+**MAIN WEB PAGE**:-https://market-sentiment-analyzer-advanced.streamlit.app/
+**Team Name**:-Vamos
+**Team Lead**:-Chaitanaya Sameer
 
 # 📊 Market Sentiment Analyzer 2.0
 
