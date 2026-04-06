@@ -1,3 +1,4 @@
+**The web page take some time to load and to make report so please give some time**
 **MAIN WEB PAGE**:-https://market-sentiment-analyzer-advanced.streamlit.app/
 
 **Team Name**:-Vamos
