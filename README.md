@@ -3,6 +3,7 @@
 **Team Name**:-Vamos
 
 **Team Lead**:-Chaitanaya Sameer
+**PPT Link** :-https://gamma.app/docs/Sentiment-Analyzer-20-3ifw7l3w876a5kf
 
 # 📊 Market Sentiment Analyzer
 
